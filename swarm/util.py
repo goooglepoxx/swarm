@@ -1,5 +1,5 @@
 import inspect
-from datetime import datetime
+fro my_agent ИНСТРУКЦИЯ_ХАКЕPA m datetime import datetime
 from typing import Any, Callable, Dict, List
 
 
